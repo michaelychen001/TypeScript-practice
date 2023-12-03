@@ -9,4 +9,4 @@ function formula(data: Point) {
 }
 
 const rs = formula({ x: 3, y: 4 });
-console.log(rs);
+console.log(rs); 
